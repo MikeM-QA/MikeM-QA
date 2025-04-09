@@ -1,7 +1,7 @@
-## Welcome!
-
-Тестовая документация:
-
+## Портфолио:
+- [Тест-кейсы](https://github.com/MikeM-QA/test-cases)
+- [Баг-репорты](https://github.com/MikeM-QA/bug-reports)
+- [Чек-листы](https://github.com/MikeM-QA/check-lists)
 
 <!--
 **MikeM-QA/MikeM-QA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
