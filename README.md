@@ -1,7 +1,8 @@
 ## Портфолио:
 - [Тест-кейсы](https://github.com/MikeM-QA/test-cases)
-- [Баг-репорты](https://github.com/MikeM-QA/bug-reports)
 - [Чек-листы](https://github.com/MikeM-QA/check-lists)
+- [Баг-репорты](https://github.com/MikeM-QA/bug-reports)
+- Баг-трекинг: [Пример 1 RU](https://trello.com/b/8YfqOojg), [Пример 2 RU](https://trello.com/b/fvn8bjx1), [Пример 3 ENG](https://trello.com/b/OdUe7DGj)
 
 <!--
 **MikeM-QA/MikeM-QA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
